@@ -1,4 +1,4 @@
-# Predictive Modeling for Falcon 9 First Stage Landing Success 🚀
+![image](https://github.com/user-attachments/assets/7ed872e6-fa3a-465e-afc5-d0a2650a3833)# Predictive Modeling for Falcon 9 First Stage Landing Success 🚀
 
 This project focuses on predicting the landing success of SpaceX's Falcon 9 first stage using historical data and various machine learning models. The analysis spans from data collection to visualization, interactive dashboard creation, and predictive modeling.
 
@@ -25,13 +25,14 @@ SpaceX has revolutionized space travel by successfully reusing Falcon 9 first-st
 
 
 ### Notebooks and Files:
-- [**SpaceX Data Collection API Notebook**](https://github.com/Sigmanurag/Predictive-Modeling-for-Falcon-9-First-Stage-Landing-Success-/blob/main/jupyter-labs-spacex-data-collection-api.ipynb)
-- [**Web Scraping Falcon 9 Launch Records**](https://github.com/Sigmanurag/Predictive-Modeling-for-Falcon-9-First-Stage-Landing-Success-/blob/main/jupyter-labs-webscraping.ipynb)
-- [**EDA with Data Visualization**](https://github.com/Sigmanurag/Predictive-Modeling-for-Falcon-9-First-Stage-Landing-Success-/blob/main/edadataviz.ipynb)
-- [**EDA using SQL**](https://github.com/Sigmanurag/Predictive-Modeling-for-Falcon-9-First-Stage-Landing-Success-/blob/main/jupyter-labs-eda-sql-coursera_sqllite.ipynb)
-- [**Interactive Map with Folium**](https://github.com/Anurag561-tech/Predictive-Modeling-for-Falcon-9-First-Stage-Landing-Success-/blob/main/Space-X%20Launch%20Sites%20Locations%20Analysis%20with%20Folium-Interactive%20Visual%20Analytics.ipynb)
-- [**Interactive Dashboard with Plotly Dash**](https://github.com/Anurag561-tech/Predictive-Modeling-for-Falcon-9-First-Stage-Landing-Success-/blob/main/Build%20an%20Interactive%20Dashboard%20with%20Ploty%20Dash%20-%20spacex_dash_app.py)
-- [**Predictive Modeling**](https://github.com/Anurag561-tech/Predictive-Modeling-for-Falcon-9-First-Stage-Landing-Success-/blob/main/SpaceX_Machine%20Learning%20Prediction.ipynb)
+- [**SpaceX Data Collection API Notebook**](https://github.com/Anurag561-tech/Predictive-Modeling-for-Falcon-9-First-Stage-Landing-Success-/blob/main/(1)%20jupyter-labs-spacex-data-collection-api.ipynb)
+- [**Web Scraping Falcon 9 Launch Records**](https://github.com/Anurag561-tech/Predictive-Modeling-for-Falcon-9-First-Stage-Landing-Success-/blob/main/(2)%20jupyter-labs-webscraping.ipynb)
+- [**EDA with Data Visualization**](https://github.com/Anurag561-tech/Predictive-Modeling-for-Falcon-9-First-Stage-Landing-Success-/blob/main/(4)%20edadataviz.ipynb)
+- [**EDA using SQL**](https://github.com/Anurag561-tech/Predictive-Modeling-for-Falcon-9-First-Stage-Landing-Success-/blob/main/(5)%20jupyter-labs-eda-sql-coursera_sqllite.ipynb)
+- [**Interactive Map with Folium**](https://github.com/Anurag561-tech/Predictive-Modeling-for-Falcon-9-First-Stage-Landing-Success-/blob/main/(6)%20lab_jupyter_launch_site_location.ipynb)
+- [**Interactive Dashboard with Plotly Dash**](https://github.com/Anurag561-tech/Predictive-Modeling-for-Falcon-9-First-Stage-Landing-Success-/blob/main/(7)%20Build%20an%20Interactive%20Dashboard%20with%20Ploty%20Dash%20-%20spacex_dash_app.py)
+- [**Predictive Modeling**](https://github.com/Anurag561-tech/Predictive-Modeling-for-Falcon-9-First-Stage-Landing-Success-/blob/main/(8)%20SpaceX_Machine%20Learning%20Prediction.ipynb)
+
 
 ## Results
 - **Model Accuracy**: The best-performing model (Logistic Regression) achieved an accuracy of **83%**.
