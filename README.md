@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/7ed872e6-fa3a-465e-afc5-d0a2650a3833)# Predictive Modeling for Falcon 9 First Stage Landing Success 🚀
+# Predictive Modeling for Falcon 9 First Stage Landing Success 🚀
 
 This project focuses on predicting the landing success of SpaceX's Falcon 9 first stage using historical data and various machine learning models. The analysis spans from data collection to visualization, interactive dashboard creation, and predictive modeling.
 
